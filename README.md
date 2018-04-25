@@ -71,3 +71,4 @@ does not allow any rides over 2500 feet - the function returns `'cannot travel
 that far'` if a ride over 2500 feet is requested.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-functions-lab'>Functions Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Functions Lab</p>
